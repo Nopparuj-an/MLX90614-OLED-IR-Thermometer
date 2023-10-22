@@ -1,0 +1,4 @@
+mlx90614.c:23:9:CRC8_Calc	2
+mlx90614.c:35:6:MLX90614_WriteReg	1
+mlx90614.c:70:10:MLX90614_ReadReg	2
+mlx90614.c:97:7:MLX90614_ReadTemp	1
